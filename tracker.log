@@ -1,0 +1,30 @@
+2014-06-10 12:49:00,453 DEBUG  [GenericStepDefs] Execute commandSKIP 
+2014-06-10 12:49:00,648 DEBUG  [GenericStepDefs] Execute commandRUN 
+2014-06-10 12:49:00,651 DEBUG  [LoginTest] I am going to appurl on  Browser 
+2014-06-10 12:49:00,651 DEBUG  [SeleniumWebAppDriver] Opening Browser Browser 
+2014-06-10 12:49:00,789 DEBUG  [SeleniumWebAppDriver] Naviating to https://my.cscglobal.com/pbng/landing.jsp 
+2014-06-10 12:49:06,632 DEBUG  [GenericStepDefs] Entering in URAVIKUM value userid 
+2014-06-10 12:49:06,632 DEBUG  [SeleniumWebAppDriver] Typing in URAVIKUM 
+2014-06-10 12:49:08,175 DEBUG  [GenericStepDefs] Entering in Prodsupp0rt value password 
+2014-06-10 12:49:08,175 DEBUG  [SeleniumWebAppDriver] Typing in Prodsupp0rt 
+2014-06-10 12:49:08,505 DEBUG  [GenericStepDefs] Clicking on login 
+2014-06-10 12:49:08,505 DEBUG  [SeleniumWebAppDriver] Clicking on login 
+2014-06-10 12:49:08,696 DEBUG  [LoginTest] Login - successfull 
+2014-06-10 12:49:15,854 DEBUG  [GenericStepDefs] Execute commandRUN 
+2014-06-10 12:49:15,856 DEBUG  [SeleniumWebAppDriver] Opening Browser Browser 
+2014-06-10 12:49:15,903 DEBUG  [AdminMenuTest] Menu Item admin-menu 
+2014-06-10 12:49:15,922 DEBUG  [GenericStepDefs] Clicking on admin-menu 
+2014-06-10 12:49:15,922 DEBUG  [SeleniumWebAppDriver] Clicking on admin-menu 
+2014-06-10 12:49:16,318 DEBUG  [AdminMenuTest] Web Element admin-headershould be present 
+2014-06-10 12:56:13,010 DEBUG  [GenericStepDefs] Execute commandRUN 
+2014-06-10 12:56:13,025 DEBUG  [SeleniumWebAppDriver] Opening Browser Browser 
+2014-06-10 12:56:23,122 DEBUG  [AdminMenuTest] Do default login 
+2014-06-10 12:56:23,122 DEBUG  [SeleniumWebAppDriver] performing default login 
+2014-06-10 12:56:23,122 DEBUG  [SeleniumWebAppDriver] Naviating to https://my.cscglobal.com/pbng/landing.jsp 
+2014-06-10 12:56:28,075 DEBUG  [SeleniumWebAppDriver] Typing in URAVIKUM 
+2014-06-10 12:56:29,723 DEBUG  [SeleniumWebAppDriver] Typing in Prodsupp0rt 
+2014-06-10 12:56:29,947 DEBUG  [SeleniumWebAppDriver] Clicking on login 
+2014-06-10 12:56:30,147 DEBUG  [AdminMenuTest] Menu Item admin-menu 
+2014-06-10 12:56:35,847 DEBUG  [GenericStepDefs] Clicking on admin-menu 
+2014-06-10 12:56:35,847 DEBUG  [SeleniumWebAppDriver] Clicking on admin-menu 
+2014-06-10 12:56:36,023 DEBUG  [AdminMenuTest] Web Element admin-headershould be present 

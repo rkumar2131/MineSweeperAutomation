@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="14.370747">
+<testcase classname="Launch MineSweeper application for playing" name="Launch MineSweeper application for playing_1" time="13.886448">
+<system-out><![CDATA[Given When Execute scenario is "RUN"........................................passed
+Given I open "Browser" and type "appurl"....................................passed
+Then I should be "successfull" to launch minesweeper........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Menus available for Player" name="Validating intermediate menu checked_1" time="0.484299">
+<system-out><![CDATA[Given When Execute scenario is "RUN"........................................passed
+Given "Browser" opened with minesweeper app.................................passed
+Then Intermediate menu in game menu should be present.......................passed
+And "images/checked.gif" should be present..................................passed
+]]></system-out>
+</testcase>
+</testsuite>

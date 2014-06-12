@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<repositories>
+	<repo page="landing">
+		<element name="divBoard">
+			<xpath>//div[@id='divBoard']</xpath>
+			<id>divBoard</id>
+		</element>		
+	</repo>
+	<repo page="menu">
+		<element name="Intermediate">
+			<xpath>//div[@id='divMenuGame']/table/tbody/tr/td/a[3]</xpath>
+			<id>divBoard</id>
+		</element>	
+		<element name="intermediate_image">
+			<xpath>//div[@id='divMenuGame']/table/tbody/tr/td/img[3]</xpath>
+			<id>divBoard</id>
+		</element>	
+	</repo>
+</repositories>
